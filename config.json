@@ -1,0 +1,12 @@
+
+{
+  "models": [
+    "codellama:7b",
+    "codegemma:7b",
+    "codeqwen:7b",
+    "qwen2.5-coder:7b",
+    "deepseek-coder:6.7b",
+    "starcoder:7b"
+  ],
+  "test_suite_path": "test_suite.json"
+}

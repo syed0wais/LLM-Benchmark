@@ -1,0 +1,23 @@
+[
+  {
+    "prompt": "Generate an Angular component that displays 'Hello Angular!' in a paragraph.",
+    "language": "angular"
+  },
+  {
+    "prompt": "Create an Angular service that fetches data from 'https://api.example.com/data'.",
+    "language": "angular"
+  },
+  {
+    "prompt": "Write an Angular module that imports the FormsModule and BrowserModule.",
+    "language": "angular"
+  },
+  {
+    "prompt": "Generate an angular component that contains a button, and when clicked, changes the text of a paragraph.",
+    "language": "angular"
+  },
+    {
+        "prompt": "Create an angular component that uses the angular material library to create a table.",
+        "language": "angular"
+    }
+
+]
